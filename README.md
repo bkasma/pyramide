@@ -1,4 +1,4 @@
-## Author: "Asma Boukraa"
+## Author: Asma Boukraa
 
 	
 ## live link to project : https://bkasma.github.io/pyramide.github.io
